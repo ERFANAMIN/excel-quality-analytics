@@ -31,9 +31,9 @@
 ## 📁 فایل‌ها
 | فایل | توضیح |
 |---|---|
-| `Quality_Analytics_Dashboard.xlsx` | فایل کامل — شیت `01_Dashboard` را باز کنید |
+| `Quality_Analytics_Dashboard.xlsx` | فایل کامل — شیت `‎01_Dashboard‎` را باز کنید |
 | `Quality_Analytics_Dashboard.pdf` | عکس داشبورد در یک صفحه |
 
-> ▶️ برای دیدن داشبورد، فایل اکسل را دانلود کنید و شیت `01_Dashboard` را باز کنید.
+> ▶️ برای دیدن داشبورد، فایل اکسل را دانلود کنید و شیت `‎01_Dashboard‎` را باز کنید.
 
 </div>
